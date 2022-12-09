@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/"
+  to = "/BlogPost.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/BlogPost.html"
+  status = 400
